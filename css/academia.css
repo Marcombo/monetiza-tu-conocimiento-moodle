@@ -1,0 +1,86 @@
+body {
+    background-color: #DFDFDF;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: 'Actor';
+}
+
+#cabecera {
+    clear: both;
+}
+
+#logo {
+    float: left;
+    width: 40%;
+}
+
+#menu {
+    float: right;
+    margin-top: 50px;
+    text-align: right;
+    width: 60%;
+}
+
+#contenido {
+    clear: both;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#piePagina {
+    margin-top: 20px;
+    width: 100%;
+}
+
+#terminosLegales {
+    float: left;
+    text-align: left;
+}
+
+#redesSociales {
+    float: right;
+    text-align: right;
+    margin-left: 200px;
+}
+
+/* Link sin visitar */
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+/* Link visitado */
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+/* Link cuando se pasa el ratón por encima */
+a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+/* Link de la página activa en este momento */
+a:active {
+    color: red;
+    text-decoration: none;
+}
+
+#botonIcono {
+    font-size: 100px;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+td {
+    text-align: center;
+}
+
+h1 {
+    margin: 20px;
+}
